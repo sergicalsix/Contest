@@ -7,7 +7,7 @@
 ## 複数文字
 `s = input().split()`
 
-`a, b = map(int, input().split())` 
+`a, b = map(int, input().split())`
 
 `l = list(map(int, input().split()))`
 

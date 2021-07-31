@@ -5,7 +5,7 @@
 `s = int(input())`
 
 ## 複数文字
-`s = input().split()`
+`s = input.split()`
 
 `a, b = map(int, input().split())` 
 
